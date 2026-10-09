@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+aws_credentials*
+
+# Data: raw dataset is NOT redistributed (see data/README.md for setup).
+data/games.csv
+data/plays.csv
+data/players.csv
+data/pffScoutingData.csv
+data/tracking/
+data/processed/
+
+# Build artifacts — keep committed screenshots + the data profile (submission
+# outputs), ignore scratch charts.
+outputs/charts/*
+!outputs/charts/.gitkeep
+
+# OS
+.DS_Store
