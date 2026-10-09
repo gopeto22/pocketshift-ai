@@ -1,9 +1,8 @@
 """PerformanceContextAdapter + preparation brief builder (Agent 4).
 
-This is the NutriElite-inspired bridge, written fresh and clearly separated. It
-contains NO NutriElite source, data, models or prompts. It demonstrates how
-tactical analysis COULD feed a performance decision-support system, strictly
-gated behind human practitioner review.
+This turns tactical analysis into a performance-staff decision-support brief,
+strictly gated behind human review. It demonstrates how play intelligence COULD
+feed a preparation workflow without replacing a coach, nutritionist, or clinician.
 
 Hard rule: the NFL scouting dataset has no physiological, injury, or medical
 information. We never infer those. Workload here = observed play involvement,

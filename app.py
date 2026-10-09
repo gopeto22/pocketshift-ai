@@ -647,7 +647,7 @@ def screen_preparation():
                 file_name=f"preparation_brief_{nfl_id}_{g}_{p}.md",
                 mime="text/markdown",
             )
-            with st.expander("PerformanceContextAdapter payload (NutriElite-inspired, newly written)"):
+            with st.expander("PerformanceContextAdapter payload (structured hand-off format)"):
                 st.json(ctx.to_dict())
         else:
             st.info("Pick a player and optional context, then create the brief.")

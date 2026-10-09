@@ -2,9 +2,8 @@
 
 ## Originality
 - All code, docs, notebooks, tests and assets are created during the event.
-- No NutriElite source code, private data, trained models, or prompts are copied in.
-- NutriElite informs product *direction* only, via a newly written, clearly
-  separated `PerformanceContextAdapter`.
+- No pre-built code or materials prepared prior to the competition window are
+  included. The `PerformanceContextAdapter` is written fresh for this project.
 
 ## Claims discipline
 - No false claim of official NFL endorsement, medical validation, injury

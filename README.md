@@ -288,9 +288,6 @@ app says so. It is an association in observational data, not a causal effect.
 ## Originality / competition compliance
 
 - All code, docs, tests and visuals in this repo were created during the event.
-- No NutriElite source code, private data, trained models, or prompts are
-  included. The `PerformanceContextAdapter` is newly written and clearly
-  separated — NutriElite informs product *direction* only.
 - No claim of official NFL endorsement, medical validation, injury prediction, or
   live NFL data.
 - No secrets committed (`.env` is gitignored). The raw dataset is not

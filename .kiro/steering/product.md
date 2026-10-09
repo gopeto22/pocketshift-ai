@@ -11,12 +11,13 @@ Given a historical pass-protection failure, PocketShift investigates what happen
 retrieves comparable plays, explores plausible blocking alternatives with honest
 uncertainty, and translates the lesson into a coach-reviewable preparation brief.
 
-## The five screens
+## The six screens
 - **A — Command Centre**: dataset coverage, filters, high-pressure plays, featured demo.
 - **B — Play Forensics**: observed play facts + interactive blocker–rusher graph.
 - **C — Counterfactual Lab**: observed vs. hypothetical, matched historical evidence.
 - **D — Ask PocketShift**: grounded AI agent with visible tool execution + evidence.
-- **E — Player Preparation**: NutriElite-inspired brief (prototype, human-review-gated).
+- **E — Energy & Fatigue**: tracking-derived Energy Expenditure Index + fatigue signal.
+- **F — Player Preparation**: coach/performance-staff brief (prototype, human-review-gated).
 
 ## Non-negotiables
 - Working product before optional features. The app must run after every phase.

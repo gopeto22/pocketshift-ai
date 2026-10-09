@@ -23,7 +23,7 @@
 - [x] 16. agents.py — tool registry + orchestration + trace.
 - [x] 17. Ask PocketShift screen with visible execution trace + evidence panel.
 
-## P3 NutriElite-inspired preparation
+## P3 Player preparation brief
 - [x] 18. performance_adapter.py — adapter + brief builder.
 - [x] 19. Player Preparation screen + Create Preparation Brief + Markdown export.
 
